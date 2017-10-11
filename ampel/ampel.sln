@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ampel", "ampel/ampel.csproj", "{004BE5D2-7A4B-4C97-8D88-023BA81C6C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ampel.console", "ampel.console\ampel.console.csproj", "{E014D4F1-83A2-4707-8E4D-BD4426D02E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ampel.tests", "ampel.tests\ampel.tests.csproj", "{0C9C1DCF-5E70-4734-9039-AA060055ABDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004BE5D2-7A4B-4C97-8D88-023BA81C6C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004BE5D2-7A4B-4C97-8D88-023BA81C6C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004BE5D2-7A4B-4C97-8D88-023BA81C6C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004BE5D2-7A4B-4C97-8D88-023BA81C6C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E014D4F1-83A2-4707-8E4D-BD4426D02E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E014D4F1-83A2-4707-8E4D-BD4426D02E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E014D4F1-83A2-4707-8E4D-BD4426D02E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E014D4F1-83A2-4707-8E4D-BD4426D02E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9C1DCF-5E70-4734-9039-AA060055ABDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9C1DCF-5E70-4734-9039-AA060055ABDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9C1DCF-5E70-4734-9039-AA060055ABDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9C1DCF-5E70-4734-9039-AA060055ABDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

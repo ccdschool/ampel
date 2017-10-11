@@ -1,0 +1,7 @@
+/Users/stefanlieser/github/ampel/ampel/ampel/bin/Debug/ampel.dll
+/Users/stefanlieser/github/ampel/ampel/ampel/bin/Debug/ampel.pdb
+/Users/stefanlieser/github/ampel/ampel/ampel/bin/Debug/servicehost.contract.dll
+/Users/stefanlieser/github/ampel/ampel/ampel/obj/Debug/ampel.csprojResolveAssemblyReference.cache
+/Users/stefanlieser/github/ampel/ampel/ampel/obj/Debug/ampel.csproj.CoreCompileInputs.cache
+/Users/stefanlieser/github/ampel/ampel/ampel/obj/Debug/ampel.dll
+/Users/stefanlieser/github/ampel/ampel/ampel/obj/Debug/ampel.pdb

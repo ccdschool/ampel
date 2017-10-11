@@ -1,0 +1,15 @@
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/ampel.console.exe
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/ampel.console.pdb
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/ampel.dll
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/Mono.Posix.dll
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/Nancy.dll
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/Nancy.Hosting.Self.dll
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/servicehost.contract.dll
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/servicehost.exe
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/ampel.pdb
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/Nancy.xml
+/Users/stefanlieser/github/ampel/ampel/ampel.console/bin/Debug/Nancy.Hosting.Self.xml
+/Users/stefanlieser/github/ampel/ampel/ampel.console/obj/Debug/ampel.console.csprojResolveAssemblyReference.cache
+/Users/stefanlieser/github/ampel/ampel/ampel.console/obj/Debug/ampel.console.csproj.CoreCompileInputs.cache
+/Users/stefanlieser/github/ampel/ampel/ampel.console/obj/Debug/ampel.console.exe
+/Users/stefanlieser/github/ampel/ampel/ampel.console/obj/Debug/ampel.console.pdb
